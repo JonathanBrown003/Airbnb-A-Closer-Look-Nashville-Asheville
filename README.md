@@ -18,6 +18,8 @@ Analyzing the Nashville and Asheville short-term rental market using Airbnb list
 1) Airbnb "Listings" dataset of Nashville, TN short-term rentals
 2) Airbnb "Listings" dataset of Asheville, NC short-term rentals
 
+From: http://insideairbnb.com/get-the-data.html
+
 ### Database
 1) SQLite/MongoDB? - TBD
 
