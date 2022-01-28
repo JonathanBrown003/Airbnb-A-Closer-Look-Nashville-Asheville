@@ -22,7 +22,7 @@ Analyzing the Nashville and Asheville short-term rental market using Airbnb list
 1) SQLite/MongoDB? - TBD
 
 ### Machine Learning Model
-1) Supervised ML / Logistic Regression - Suggested property (Y/N) based on pre-specified criteria fed to algorithm (highest rating for neighborhood, bedroom/bathroom combination, etc.)
+1) Supervised ML / Logistic Regression - Suggested property (Y/N) based on pre-specified criteria fed to algorithm (pre-set rating, bedroom/bathroom combination, etc.)
 
 ### Data Visualization
 1) Create story in Tableau to back up our data analysis findings
