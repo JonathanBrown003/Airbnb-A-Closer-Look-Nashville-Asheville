@@ -10,6 +10,7 @@ Analyzing the Nashville and Asheville short-term rental market using Airbnb list
 4) What characteristics are needed for a successful rental property? 
 5) Does the host response rate correlate with higher overall ratings?
 6) What are the most common key words/phrases used in Airbnb host descriptions? Are these descriptors telling in what would be successful in a rental property? 
+7) Is there a correlation between host listing count and superhost? 
 
 ## Segmentation of Project
 
