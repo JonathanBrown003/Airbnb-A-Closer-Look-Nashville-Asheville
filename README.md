@@ -48,7 +48,30 @@ The Nashville dataset can be accessed ![here](https://github.com/tutran90/White-
 7) Is there a correlation between host listing count and superhost? 
 
 ### Communication Protocols
-The team has been meeting twice per week during Zoom class time to jointly work on this project. We discuss deliverables and timelines for completion to ensure everyone is on track with their portion of the project. We use the group Slack channel to communicate between and during meetings as well as on an ad-hoc basis. 
+The team has been meeting twice per week during Zoom class time to jointly work on this project. We discuss deliverables and timelines for completion to ensure everyone is on track with their portion of the project. We use the group Slack channel to communicate between and during meetings as well as on an ad-hoc basis.
+
+### Initial Exploratory Data Analysis
+- Nashville has an average rating score of 4.856 with a 0.057 standard deviation. A rating at 4.913 or above would constitute 1 standard deviation above the mean or the 68th percentile. 4.97 would constitute a rating score 2 standard deviations above the mean or in the 95th percentile. 
+
+- Asheville has an average rating score of 4.892 with a 0.019 standard deviation. A rating at 4.911 or above would constitute 1 standard deviation above the mean or the 68th percentile. 4.93 would constitute a rating score 2 standard deviations above the mean or in the 95th percentile.
+
+- The difference in the standard deviations for Nashville (0.057 st. dev.) versus Asheville (0.019 st. dev.) is significant. This could be explained by the complexities in the respective markets or Asheville having fewer listings than Nashville. 
+
+- For the Nashville data, there is an 86.8% correlation for accuracy of listing with the rating score. There is also an 82.4% correlation for communication of the host with rating score as well as a 80.9% correlation for cleanliness with the rating score. Location had a 63.2% correlation with rating score for the Nashville market. 
+
+- For the Asheville data, there is an 80.7% correlation for accuracy of listing with the rating score. There is also an 67% correlation for communication of the host with rating score as well as a 73.4% correlation for cleanliness with the rating score. Location had a 52% correlation with rating score for the Asheville market.
+
+- It is telling that the accuracy of the listing had the highest correlation with the total rating score in both markets. Communication (15% delta) and location (10% delta) were the largest differences between the markets in correlation with the rating score. Nashville scored higher in both measures. 
+
+- For the Nashville data, there is an 86.8% correlation for rating score with the accuracy of listing. There is also an 75.5% correlation for communication of the host with accuracy as well as a 74.4% correlation for cleanliness with the accuracy score. Location had a 58.4% correlation with accuracy for the Nashville market.
+
+- For the Asheville data, there is an 80.7% correlation for rating score with the accuracy of listing. There is also an 63.8% correlation for communication of the host with accuracy as well as a 63.7% correlation for cleanliness with the accuracy score. Location had a 40.1% correlation with accuracy for the Asheville market.
+
+- Once again, communication (12% delta) and location (18% delta) were the largest percentage differences for the two markets with the Music City (Nashville) scoring higher in both measures. 
+
+- No significant correlations for host listings count for Nashville. 57.8% of host listing counts in the Asheville market were entire homes meaning 57.8% of the listings in Asheville are for renting entire homes from hosts. 
+
+- Significantly higher rating scores correlated with higher host response rate. 
 
 ### Database
 Our team will be using PostgreSQL to create a database then link from it to feed our machine learning model. 
