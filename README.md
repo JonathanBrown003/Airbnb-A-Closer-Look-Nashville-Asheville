@@ -75,9 +75,9 @@ The team has been meeting twice per week during Zoom class time to jointly work 
 
 - The Airbnb data for Nashville and Ashville have identical characteristics in the datasets. This includes, number of people the listing accommodates, number of bedrooms, beds, and bathrooms. The max and minimum number of nights for the booking as well as if the listing is for "Entire home/apt" or "Private room" is a part of the characteristics of an Airbnb.
 
-- Nashville Airbnb's characteristics standard deviation accomodates 3.6 people with 3.5 beds and 1.3 baths with an 8.0 night stay minimum. There are 300 entire home/apt available out of 2692 listings. 
+- Nashville Airbnb's characteristics standard deviation accommodates 3.6 people with 3.5 beds and 1.3 baths with an 8.0 night stay minimum. There are 300 entire home/apt available out of 2692 listings. 
 
-- Asheville Airbnb's characteristics standard deviation accomodates 2.8 people with 1.7 beds and 0.75 baths with an 14.6 night stay minimum. There are 147 entire home/apt available out of 1028 listings. 
+- Asheville Airbnb's characteristics standard deviation accommodates 2.8 people with 1.7 beds and 0.75 baths with an 14.6 night stay minimum. There are 147 entire home/apt available out of 1028 listings. 
 
 ### Database
 Our team will be using PostgreSQL to create a database then link from it to feed our machine learning model. 
