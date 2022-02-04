@@ -71,7 +71,13 @@ The team has been meeting twice per week during Zoom class time to jointly work 
 
 - No significant correlations for host listings count for Nashville. 57.8% of host listing counts in the Asheville market were entire homes meaning 57.8% of the listings in Asheville are for renting entire homes from hosts. 
 
-- Significantly higher rating scores correlated with higher host response rate. 
+- Significantly higher rating scores correlated with higher host response rate.
+
+- The Air B-n-B data for Nashville and Ashville have identical characterics data available. This includes, number of people listing accommodates, number of bedrooms, beds, and bathrooms. The max and minimum number of nights for the booking as well as if the listing is for "Entire home/apt" or "Private room" is apart of the characteristics of an Air B-n-B.
+
+- Nashville Air B-n-B's characteristics standard dievation accomades 3.6 people with 3.5 beds and 1.3 baths with an 8.0 night stay minimum. There are 300 entire home/apt availble out of 2692 listings. 
+
+- Asheville Air B-n-B's characteristics standard dievation accomades 2.8 people with 1.7 beds and .75 baths with an 14.6 night stay minimum. There are 147 entire home/apt availble out of 1028 listings. 
 
 ### Database
 Our team will be using PostgreSQL to create a database then link from it to feed our machine learning model. 
