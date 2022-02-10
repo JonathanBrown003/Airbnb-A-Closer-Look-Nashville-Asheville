@@ -1,6 +1,6 @@
 # Airbnb, A Closer Look: Nashville & Asheville
 
-Please access our slides ![here.](https://docs.google.com/presentation/d/10pbRhsqGu9zStp6knlFmChnecsVGmCRh07Zs_VdRvIk/edit?usp=sharing)
+Please access our slides [here.](https://docs.google.com/presentation/d/10pbRhsqGu9zStp6knlFmChnecsVGmCRh07Zs_VdRvIk/edit?usp=sharing)
 
 ### Project Overview
 Analyzing the Nashville and Asheville short-term rental market using Airbnb listings data
