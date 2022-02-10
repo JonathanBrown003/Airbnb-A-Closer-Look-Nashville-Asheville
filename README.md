@@ -1,6 +1,6 @@
 # Airbnb, A Closer Look: Nashville & Asheville
 
-Please see our project code [here](https://github.com/tutran90/White-/blob/0b52716196ec3c72092283534b3b0af5d83a0bdd/Analysis_Tu.ipynb)
+Please see our project code [here.](https://github.com/tutran90/White-/blob/0b52716196ec3c72092283534b3b0af5d83a0bdd/Analysis_Tu.ipynb)
 
 Please access our slides [here.](https://docs.google.com/presentation/d/10pbRhsqGu9zStp6knlFmChnecsVGmCRh07Zs_VdRvIk/edit?usp=sharing)
 
