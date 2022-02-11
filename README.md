@@ -14,7 +14,7 @@ The objective of this analysis is to explore the most statistically-significant 
 <img src=https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/Resources/nashville-word-cloud.jpeg width="400" height="400"> <img src=https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/Resources/asheville-word-cloud.jpeg width="400" height="400">
 
 ### Sources of Data
-Our data sources were pulled from insideairbnb.com [here](http://insideairbnb.com/get-the-data.html). These datasets have a diverse set of features in which to work with for this project. The data contained within these datasets are mirrors of each other with 74 features each so a thorough, like for like comparison can be done. The Nashville dataset has nearly 6,400 listings to analyze while the Asheville dataset has just over 2,600 listings. 
+Our data sources were pulled from insideairbnb.com [here](http://insideairbnb.com/get-the-data.html). These datasets have a diverse set of features in which to work with for this project. The data contained within these datasets are mirrors of each other with 51 features each so a thorough, like for like comparison can be done. The Nashville dataset has 2,692 listings to analyze while the Asheville dataset has 1,028 listings. 
 
 The Nashville dataset can be accessed ![here](https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/listings.csv) for viewing while the Asheville dataset can be accessed ![here](https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/Asheville_listings.csv). 
 
