@@ -18,7 +18,7 @@ Our data sources were pulled from insideairbnb.com [here](http://insideairbnb.co
 
 The Nashville dataset can be accessed ![here](https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/listings.csv) for viewing while the Asheville dataset can be accessed ![here](https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/Asheville_listings.csv). 
 
-The zip codes for the Nashville dataset was obtained from the following website https://simplemaps.com/data/us-zips The uszips.csv file was parsed down to obtain the correlating zip codes that matched with the given latitude and longitude coordinates. The file can be accessed![here](https://github.com/tutran90/White-/tree/main/US%20(1)).
+The zip codes for the Nashville dataset was obtained from the following website https://simplemaps.com/data/us-zips The uszips.csv file was parsed down to obtain the correlating zip codes that matched with the given latitude and longitude coordinates. The file can be accessed ![here](https://github.com/tutran90/White-/tree/main/US%20(1)).
 
 #### Notable Features
 
