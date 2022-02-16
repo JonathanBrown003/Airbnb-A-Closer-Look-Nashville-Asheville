@@ -18,7 +18,7 @@ Our data sources were pulled from insideairbnb.com [here](http://insideairbnb.co
 
 The Nashville dataset can be accessed ![here](https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/listings.csv) for viewing while the Asheville dataset can be accessed ![here](https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/Asheville_listings.csv). 
 
-The zip codes for the Nashville dataset was obtained from the following website https://simplemaps.com/data/us-zips The uszips.csv file was parsed down to obtain the correlating zip codes that matched with the given latitude and longitude coordinates. The file can be accessed here ![here](https://github.com/tutran90/White-/tree/main/US%20(1)).
+The zip codes for the Nashville dataset was obtained from the following website https://simplemaps.com/data/us-zips The uszips.csv file was parsed down to obtain the correlating zip codes that matched with the given latitude and longitude coordinates. The file can be accessed![here](https://github.com/tutran90/White-/tree/main/US%20(1)).
 
 #### Notable Features
 
@@ -45,18 +45,16 @@ The zip codes for the Nashville dataset was obtained from the following website 
 - Reviews Per Month
 
 ### Questions to answer
-1) Are there certain zip codes that have noticeably higher ratings than other zip codes?
-2) Do the number of reviews per month (good indicator of tenancy) correlate with high ratings for Airbnb units?
-3) Do certain short-term rental characteristics fare better in the short-term rental market? 
-4) What characteristics are needed for a successful (high ranking) rental property? 
-5) Does the host response rate correlate with higher overall ratings?
-6) What are the most common key words/phrases used in Airbnb host descriptions? Are these descriptors telling in what would be successful in a rental property? 
-7) Is there a correlation between host listing count and superhost? 
+1) Are there certain districts that have noticeably higher ratings than other districts?
+2) Do the current fixed variables (bedrooms, bathrooms, location, etc.) of the property affect the overall rating score?
+3) Which 3 features have the highest correlation with overall rating score? 
+4) Does the host response rate correlate with higher overall ratings? 
+5) Is there a correlation between host listing count and superhost? 
 
 ### Communication Protocols
 The team has been meeting twice per week during Zoom class time to jointly work on this project. We discuss deliverables and timelines for completion to ensure everyone is on track with their portion of the project. We use the group Slack channel to communicate between and during meetings as well as on an ad-hoc basis.
 
-### Initial Exploratory Data Analysis
+### Exploratory Data Analysis
 - Nashville has an average rating score of 4.856 with a 0.057 standard deviation. A rating at 4.913 or above would constitute 1 standard deviation above the mean or the 68th percentile. 4.97 would constitute a rating score 2 standard deviations above the mean or in the 95th percentile. 
 
 - Asheville has an average rating score of 4.892 with a 0.019 standard deviation. A rating at 4.911 or above would constitute 1 standard deviation above the mean or the 68th percentile. 4.93 would constitute a rating score 2 standard deviations above the mean or in the 95th percentile.
