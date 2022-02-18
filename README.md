@@ -4,6 +4,8 @@ Please see our project code [here.](Analysis_Tu.ipynb)
 
 Please access our slides [here.](https://docs.google.com/presentation/d/10pbRhsqGu9zStp6knlFmChnecsVGmCRh07Zs_VdRvIk/edit?usp=sharing)
 
+Please see our Tableau dashboard [here](https://public.tableau.com/app/profile/jonathan.brown2419/viz/AirbnbACloserLookNashvilleAsheville/Dashboard1?publish=yes). This dashboard displays graphics for two of our questions: highest-rated neighborhoods and host response rate's correlation to rating. The interactive feature ties to the neighborhood graphic. It allows you to toggle among the ratings scores for the neighborhoods. 
+
 ### Project Overview
 Analyzing the Nashville and Asheville short-term rental market using Airbnb listings data
 
@@ -79,17 +81,11 @@ The team has been meeting twice per week during Zoom class time to jointly work 
 
 - The Airbnb data for Nashville and Ashville have identical characteristics in the datasets. This includes, number of people the listing accommodates, number of bedrooms, beds, and bathrooms. The max and minimum number of nights for the booking as well as if the listing is for "Entire home/apt" or "Private room" is a part of the characteristics of an Airbnb.
 
-- Nashville Airbnb's characteristics standard deviation accommodates 3.6 people with 3.5 beds and 1.3 baths with an 8.0 night stay minimum. There are 300 entire home/apt available out of 2692 listings. 
-
-- Asheville Airbnb's characteristics standard deviation accommodates 2.8 people with 1.7 beds and 0.75 baths with an 14.6 night stay minimum. There are 147 entire home/apt available out of 1028 listings. 
-
 ### Database
-Our team will be using PostgreSQL to create a database then link from it to feed our machine learning model. 
+Our team used PostgreSQL to create a database in Jupyter Notebook
 
 ### Machine Learning Model
-Our team will be using supervised machine learning (Logistic Regression) to suggest listings based on pre-specified criteria such as rating scores, pricing, and host communication and response rate.
+Our team used supervised machine learning (Linear Regression) to suggest listings based on pre-specified criteria such as rating scores.
 
 ### Data Visualization
 We'll also be using Tableau to create an interactive dashboard to tell our story of the data.
-
-![](https://github.com/tutran90/White-/blob/58e5ed1ee2dc51c98cca09e47500b88af00f2b1b/Resources/Nash_Airbnb_District.PNG)
