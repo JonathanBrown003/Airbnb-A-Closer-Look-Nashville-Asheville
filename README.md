@@ -20,7 +20,7 @@ Our data sources were pulled from insideairbnb.com [here](http://insideairbnb.co
 
 The Nashville dataset can be accessed ![here](https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/listings.csv) for viewing while the Asheville dataset can be accessed ![here](https://github.com/tutran90/White-/blob/5feb5bb640dbc5694c8ab2c60759fc923a680ed6/Asheville_listings.csv). 
 
-The zip codes for the Nashville dataset was obtained from the following website https://simplemaps.com/data/us-zips The uszips.csv file was parsed down to obtain the correlating zip codes that matched with the given latitude and longitude coordinates. The file can be accessed ![here](https://github.com/tutran90/White-/tree/main/US%20(1)).
+The zip codes for the Nashville dataset was obtained from the following ![website.](https://simplemaps.com/data/us-zips) The uszips.csv file was parsed down to obtain the correlating zip codes that matched with the given latitude and longitude coordinates. The file can be accessed ![here](https://github.com/tutran90/White-/tree/main/US%20(1)).
 
 #### Notable Features
 
@@ -75,17 +75,19 @@ The team has been meeting twice per week during Zoom class time to jointly work 
 
 - Once again, communication (12% delta) and location (18% delta) were the largest percentage differences for the two markets with the Music City (Nashville) scoring higher in both measures. 
 
-- No significant correlations for host listings count for Nashville. 57.8% of host listing counts in the Asheville market were entire homes meaning 57.8% of the listings in Asheville are for renting entire homes from hosts. 
+- No significant correlations for host listings count for Nashville. 57.8% of host listing counts in the Asheville market were entire home listings. 
 
 - Significantly higher rating scores correlated with higher host response rate.
 
 - The Airbnb data for Nashville and Ashville have identical characteristics in the datasets. This includes, number of people the listing accommodates, number of bedrooms, beds, and bathrooms. The max and minimum number of nights for the booking as well as if the listing is for "Entire home/apt" or "Private room" is a part of the characteristics of an Airbnb.
 
 ### Database
-Our team used PostgreSQL to create a database in Jupyter Notebook
+Our team used PostgreSQL to create a database.
 
 ### Machine Learning Model
-Our team used supervised machine learning (Linear Regression) to suggest listings based on pre-specified criteria such as rating scores.
+Our team used supervised machine learning (Linear Regression) to suggest listings based on pre-specified features of the data.
 
 ### Data Visualization
-We'll also be using Tableau to create an interactive dashboard to tell our story of the data.
+We used Tableau to create an interactive ![dashboard](https://public.tableau.com/app/profile/jonathan.brown2419/viz/AirbnbACloserLookNashvilleAsheville/Dashboard1?publish=yes) to visually display host response rate compared to rating as well as highest rated neighborhoods in both cities. 
+
+![](https://github.com/tutran90/White-/blob/e0bcc062491b5930db6651ed20db6f2c39df6208/Resources/Dashboard.PNG)
