@@ -88,6 +88,6 @@ Our team used PostgreSQL to create a database. Our entity relationship diagram (
 Our team used supervised machine learning (Linear Regression) to suggest listings based on pre-specified features of the data.
 
 ### Data Visualization
-We used Tableau to create an interactive ![dashboard](https://public.tableau.com/app/profile/jonathan.brown2419/viz/AirbnbACloserLookNashvilleAsheville/Dashboard1?publish=yes) to visually display host response rate compared to rating as well as highest rated neighborhoods in both cities. 
+We used Tableau to create an interactive [dashboard](https://public.tableau.com/app/profile/jonathan.brown2419/viz/AirbnbACloserLookNashvilleAsheville/Dashboard1?publish=yes) to visually display host response rate compared to rating as well as highest rated neighborhoods in both cities. 
 
 ![](https://github.com/tutran90/White-/blob/e0bcc062491b5930db6651ed20db6f2c39df6208/Resources/Dashboard.PNG)
