@@ -82,7 +82,7 @@ The team has been meeting twice per week during Zoom class time to jointly work 
 - The Airbnb data for Nashville and Ashville have identical characteristics in the datasets. This includes, number of people the listing accommodates, number of bedrooms, beds, and bathrooms. The max and minimum number of nights for the booking as well as if the listing is for "Entire home/apt" or "Private room" is a part of the characteristics of an Airbnb.
 
 ### Database
-Our team used PostgreSQL to create a database.
+Our team used PostgreSQL to create a database. Our entity relationship diagram (ERD) can be accessed [here.](https://github.com/tutran90/White-/blob/2bd465f61c69daf7d0cd9c3b652b59f6188ab917/images/ERD.pgerd.png)
 
 ### Machine Learning Model
 Our team used supervised machine learning (Linear Regression) to suggest listings based on pre-specified features of the data.
