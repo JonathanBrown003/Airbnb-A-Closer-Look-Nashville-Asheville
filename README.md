@@ -1,6 +1,6 @@
 # Airbnb, A Closer Look: Nashville & Asheville
 
-Please see our main code [here.](Main_Analysis.ipynb) Our machine learning code can be accessed [here.](ML_AirBNB.ipynb)
+Please see our main code [here.](Main_Analysis.ipynb) Our machine learning code can be accessed [here.](https://github.com/tutran90/Airbnb-A-Closer-Look-Nashville-Asheville/blob/main/ML_AirBNB.ipynb)
 
 Please access our slides [here.](https://docs.google.com/presentation/d/10pbRhsqGu9zStp6knlFmChnecsVGmCRh07Zs_VdRvIk/edit?usp=sharing)
 
